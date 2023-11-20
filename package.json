@@ -9,6 +9,7 @@
     "test": "ng test",
     "shell": "ng s shell",
     "mf-login": "ng s mf-login",
+    "mf-home": "ng s mf-home",
     "run:all": "node node_modules/@angular-architects/module-federation/src/server/mf-dev-server.js"
   },
   "private": true,
